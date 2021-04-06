@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T03:35:30.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qZ24A0XD4vZvNVDF_Bj1" version="14.5.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-06T03:40:57.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EjBAGuBTQ4BZhw4-W2Zw" version="14.5.7" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Clases">
     <mxGraphModel dx="862" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
             <mxPoint x="50" y="-0.9999999999999982" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TQkR5zAoFKFUAtrguTI-62" value="AircraftInventory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7TQkR5zAoFKFUAtrguTI-62" value="AircraftInventoryItem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="276" width="270" height="164" as="geometry" />
         </mxCell>
         <mxCell id="7TQkR5zAoFKFUAtrguTI-82" value="+ Thumbnail_data: Aircraft" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-62">
