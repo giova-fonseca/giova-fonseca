@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T01:08:07.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="HF2TESnP5e6_GkD8KWVd" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T01:21:49.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="7dFHmqNwXz7svKxjrSkE" version="14.5.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Clases">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,6 +318,38 @@
             <mxPoint x="320" y="840" as="sourcePoint" />
             <mxPoint x="310" y="790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bLhh3Py16goI3LGx0WQG" name="Diagrama Objetos">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-0" />
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-1" parent="t4cqzoMo1pSxSQ1CEnkP-0" />
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-2" value="aircraftModel: ClassModel, AircratModel" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="100" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-3" value="images[ ]: Image" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="100" y="150" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-4" value="manufacturer: ClassModel,&amp;nbsp;Manufacturer" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="100" y="240" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-5" value="status[ ]:ClassModel,&amp;nbsp;Status" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="100" y="340" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-6" value="category:ClassModel,&amp;nbsp;Category" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="100" y="440" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4cqzoMo1pSxSQ1CEnkP-13" value="classModel: ClassModel" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="400" y="50" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mQsZDD6oscJ8rvppCdxh-0" value="aircraftInventory:ClassModel,&amp;nbsp;AircraftInventory" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="400" y="150" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mQsZDD6oscJ8rvppCdxh-1" value="aircraftInventoryComponentColumn [ ]: AircraftInventoryComponentColumn" style="html=1;" vertex="1" parent="t4cqzoMo1pSxSQ1CEnkP-1">
+          <mxGeometry x="400" y="240" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
