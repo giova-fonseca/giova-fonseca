@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T02:10:19.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Gv0mXaRImfhrg_P9_NWe" version="14.5.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-06T02:10:57.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rvYhMdorEx2B4IgntK0B" version="14.5.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Clases">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -709,13 +709,13 @@
             <mxPoint x="275" y="-834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQAQkmDBz-uPbUOvLgnq-6" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="rWre8LrkiI7meFs4Z40v-1">
+        <mxCell id="PQAQkmDBz-uPbUOvLgnq-6" value=":Category" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="rWre8LrkiI7meFs4Z40v-1">
           <mxGeometry x="490" y="-1040" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PQAQkmDBz-uPbUOvLgnq-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PQAQkmDBz-uPbUOvLgnq-6">
           <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PQAQkmDBz-uPbUOvLgnq-10" value="3.&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=0.9;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="PQAQkmDBz-uPbUOvLgnq-9" parent="rWre8LrkiI7meFs4Z40v-1" source="PQAQkmDBz-uPbUOvLgnq-1">
+        <mxCell id="PQAQkmDBz-uPbUOvLgnq-10" value="3. Success" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=0.9;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="PQAQkmDBz-uPbUOvLgnq-9" parent="rWre8LrkiI7meFs4Z40v-1" source="PQAQkmDBz-uPbUOvLgnq-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="-930" as="sourcePoint" />
           </mxGeometry>
