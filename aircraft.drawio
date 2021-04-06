@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T02:43:09.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3t-sYqQR4aOvGEg-glqd" version="14.5.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-06T03:35:30.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qZ24A0XD4vZvNVDF_Bj1" version="14.5.7" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Clases">
-    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -208,16 +208,10 @@
           <mxGeometry y="138" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7TQkR5zAoFKFUAtrguTI-67" value="AircraftSpecifications" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="630" width="140" height="104" as="geometry" />
+          <mxGeometry x="90" y="630" width="200" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="7TQkR5zAoFKFUAtrguTI-68" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-67">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7TQkR5zAoFKFUAtrguTI-69" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-67">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7TQkR5zAoFKFUAtrguTI-70" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-67">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        <mxCell id="7TQkR5zAoFKFUAtrguTI-68" value="+ dictSpecification: { &quot;Key&quot;; string}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-67">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7TQkR5zAoFKFUAtrguTI-71" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7TQkR5zAoFKFUAtrguTI-66" target="7TQkR5zAoFKFUAtrguTI-67">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +259,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7TQkR5zAoFKFUAtrguTI-79" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;AircraftInventoryComponentColumns&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ AircraftInventoryItem: [ ]&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="710" width="240" height="90" as="geometry" />
+          <mxGeometry x="350" y="729" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7TQkR5zAoFKFUAtrguTI-80" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7TQkR5zAoFKFUAtrguTI-79">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -319,11 +313,20 @@
             <mxPoint x="310" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9PqM6NIWQWTcHEdhMlSK-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.44;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7TQkR5zAoFKFUAtrguTI-68" target="7TQkR5zAoFKFUAtrguTI-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="695" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="178" y="702" />
+              <mxPoint x="470" y="702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bLhh3Py16goI3LGx0WQG" name="Diagrama Objetos">
-    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="t4cqzoMo1pSxSQ1CEnkP-0" />
         <mxCell id="t4cqzoMo1pSxSQ1CEnkP-1" parent="t4cqzoMo1pSxSQ1CEnkP-0" />
@@ -355,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vTDbyqpkDUWkML4BbHec" name="Casos de Uso1">
-    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kxF3dU0t-uGy6pju5IGX-0" />
         <mxCell id="kxF3dU0t-uGy6pju5IGX-1" parent="kxF3dU0t-uGy6pju5IGX-0" />
@@ -724,7 +727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Secuencia Manufacturer" id="5eu-25caS_Dh7SCodsVm">
-    <mxGraphModel dx="868" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="UZeghbigr37jO8ysJphA-0" />
         <mxCell id="UZeghbigr37jO8ysJphA-1" parent="UZeghbigr37jO8ysJphA-0" />
