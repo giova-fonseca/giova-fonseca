@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T02:10:57.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rvYhMdorEx2B4IgntK0B" version="14.5.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-06T02:42:01.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="5Tgrq_5ltW9orzxzwDmk" version="14.5.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Clases">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -323,7 +323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bLhh3Py16goI3LGx0WQG" name="Diagrama Objetos">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="t4cqzoMo1pSxSQ1CEnkP-0" />
         <mxCell id="t4cqzoMo1pSxSQ1CEnkP-1" parent="t4cqzoMo1pSxSQ1CEnkP-0" />
@@ -355,7 +355,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vTDbyqpkDUWkML4BbHec" name="Casos de Uso1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kxF3dU0t-uGy6pju5IGX-0" />
         <mxCell id="kxF3dU0t-uGy6pju5IGX-1" parent="kxF3dU0t-uGy6pju5IGX-0" />
@@ -479,7 +479,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Casos de Uso2" id="4F4Vg7xvjWBOYRh9PDw9">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dxsFDVxzL-GDNP9gKQ23-0" />
         <mxCell id="dxsFDVxzL-GDNP9gKQ23-1" parent="dxsFDVxzL-GDNP9gKQ23-0" />
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Casos de Uso3" id="HWvsNz1R9ZR7zM8DLf2f">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="H8ahcfXX31fIdRGF_Amm-0" />
         <mxCell id="H8ahcfXX31fIdRGF_Amm-1" parent="H8ahcfXX31fIdRGF_Amm-0" />
@@ -672,7 +672,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vXHM7MHiDfdEXHGeUX72" name="Secuencia">
-    <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rWre8LrkiI7meFs4Z40v-0" />
         <mxCell id="rWre8LrkiI7meFs4Z40v-1" parent="rWre8LrkiI7meFs4Z40v-0" />
@@ -697,7 +697,7 @@
           <mxGeometry x="300" y="-1040" width="130" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PQAQkmDBz-uPbUOvLgnq-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="A4PlQzqDZhFFnU_xMs9Z-7">
-          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+          <mxGeometry x="60" y="110" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQAQkmDBz-uPbUOvLgnq-2" value="2. Validate()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="PQAQkmDBz-uPbUOvLgnq-1" parent="rWre8LrkiI7meFs4Z40v-1" source="A4PlQzqDZhFFnU_xMs9Z-4">
           <mxGeometry relative="1" as="geometry">
