@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T00:48:11.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="t1zJoqLi_FnvIbJcMGqm" version="14.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-07T01:10:06.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="6Z_bOmpYKRP8_Jtg7hVo" version="14.5.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="controllers">
     <mxGraphModel dx="876" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,44 @@
         </mxCell>
         <mxCell id="dMVoEUgu7rUzdq6CfvKK-24" value="+ update(self, data)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dMVoEUgu7rUzdq6CfvKK-19">
           <mxGeometry y="164" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L4aOaPKghjRBh_glBOwT" name="utils">
+    <mxGraphModel dx="876" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="RBmDC9nWxLr01PkFw7gO-0" />
+        <mxCell id="RBmDC9nWxLr01PkFw7gO-1" parent="RBmDC9nWxLr01PkFw7gO-0" />
+        <mxCell id="dp98t0aPJaycaI7kP40D-0" value="utils" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="RBmDC9nWxLr01PkFw7gO-1">
+          <mxGeometry x="20" y="40" width="820" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-1" value="Utils" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="RBmDC9nWxLr01PkFw7gO-1">
+          <mxGeometry x="100" y="70" width="470" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="26" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="52" width="470" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-4" value="+ init(self)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="60" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-5" value="+ dist_between_two_lat_lon(self, *args[ ]): float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="86" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-6" value="+ find_closest_lat_lon(self, data, userLocation): geoCodes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="112" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-7" value="+ geocode_to_address(self, geoCode): str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="138" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-8" value="+ address_to_geocode(self, address:str): geocode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="164" width="470" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dp98t0aPJaycaI7kP40D-9" value="+ miles_between(self, userLocation:str, schoolGeocode. geocode): float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dp98t0aPJaycaI7kP40D-1">
+          <mxGeometry y="190" width="470" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
